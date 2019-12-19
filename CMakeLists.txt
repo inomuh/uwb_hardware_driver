@@ -11,8 +11,6 @@ find_package(catkin REQUIRED COMPONENTS
   std_msgs
 )
 
-catkin_python_setup()
-
 find_package(PkgConfig REQUIRED)
 pkg_check_modules(JSONCPP jsoncpp)
 
