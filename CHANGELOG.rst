@@ -2,8 +2,17 @@
 Changelog for package uwb_hardware_driver
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
+0.1.1 (2020-01-07)
 -----------
+* new dependency jsoncpp added
+* update
+* update
+* update
+* update
+* added
+* re-initialize
+* Contributors: elcinerdogan
+
 * license added
 * readme added
 * update
