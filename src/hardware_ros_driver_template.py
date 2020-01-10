@@ -46,7 +46,6 @@ def read_data():
     #       Write your own function in here.
 
 
-
 def anchor_data_publisher():
 
     # Initialize ros node.
@@ -92,7 +91,6 @@ def anchor_data_publisher():
         
         pub.publish(msg)	
         rate.sleep()	
-
 
 if __name__ == '__main__':	
     try:		
